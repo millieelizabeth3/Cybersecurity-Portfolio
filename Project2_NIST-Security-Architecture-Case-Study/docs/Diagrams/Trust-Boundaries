@@ -1,0 +1,10 @@
+**What It Shows**
+- where trust changes
+- where controls are enforced
+
+**Examples**
+User -> authenticated boundary
+LAN -> WAN boundary
+Remote -> internal boundary
+
+This signals security architecture maturity
