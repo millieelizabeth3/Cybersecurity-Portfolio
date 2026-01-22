@@ -50,12 +50,13 @@ These requirements collectively informed the architecture, control selection, an
 ---
 
 ## Frameworks & Standards Used
-- NIST Cybersecurity Framework (CSF)
-- NIST SP 800-53 Rev. 5 (Security & Privacy Controls)
-- NIST SP 800-171 (Protection of CUI)
+The security architecture and risk-based design in this case study were informed by U.S. federal and Department of Defense cybersecurity guidance, including:
+
+- NIST Cybersecurity Framework and NIST SP 800-series publications
 - DoD Risk Management Framework (RMF)
-- Defense-in-depth principles
-- Least privilege and role-based access control (RBAC)
+- Cybersecurity Maturity Model Certification (CMMC) 2.0
+- Controlled Unclassified Information (CUI) protection requirements
+- Federal Information Security Modernization Act (FISMA)
 
 ---
 
